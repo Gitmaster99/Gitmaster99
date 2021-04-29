@@ -1,4 +1,4 @@
-### Hi there, I'm [Wesley van Balen][website] 👋
+### Hi there, I'm <a href="https"://wesleyvanbalen.me">Wesley van Balen</a> 👋
 
 ## I'm a Developer and UI Designer!!
 
@@ -9,15 +9,15 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Wesley van Balen Spotify Playing" width="350" />(https://open.spotify.com/user/	d40wb4r2gzlq2gqlvjznoxab0)]
+<a href="https://open.spotify.com/user/d40wb4r2gzlq2gqlvjznoxab0"><img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Wesley van Balen Spotify Playing" width="350" /></a>
 
 ## Connect with me:
 
-[<img align="left" alt="wesleyvanbalen.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Wesley van Balen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Wesley van Balen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Wesley van Balen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Wesley van Balen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://open.spotify.com/user/d40wb4r2gzlq2gqlvjznoxab0"><img align="left" alt="wesleyvanbalen.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://open.spotify.com/user/d40wb4r2gzlq2gqlvjznoxab0"><img align="left" alt="Wesley van Balen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://open.spotify.com/user/d40wb4r2gzlq2gqlvjznoxab0"><img align="left" alt="Wesley van Balen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://open.spotify.com/user/d40wb4r2gzlq2gqlvjznoxab0"><img align="left" alt="Wesley van Balen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://open.spotify.com/user/d40wb4r2gzlq2gqlvjznoxab0"><img align="left" alt="Wesley van Balen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 
 <br />
